@@ -1,2 +1,3 @@
 # hello-world
-git tutorial
+
+I use Mathematica for scientific data analysis and visualisation.
